@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1807
     wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38629#Charles-Darwin--His-Life-in-an-Autobiographical-Chapter-and-in-a-Selected-Series-of-His-Publi_
 gutenberg_issued: '2012-01-20'
 gutenberg_type: Text
 identifiers:
